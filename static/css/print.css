@@ -1,0 +1,27 @@
+#mycontainer{
+    font-size: 24px;
+}
+
+.target{
+    display: block;
+    /*width: 1000px;*/
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button[type],
+#target_buttons,
+#graph_instruction,
+#graph_comment,
+#target_instruction,
+#polityki{
+    display:none;
+}
+
+#risk_reduction_div{
+    display: block;
+}
+
+#target_column{
+    text-align: left;
+}
